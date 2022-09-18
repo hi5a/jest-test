@@ -6,7 +6,8 @@
   "author": "hi5a <okbomer999@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "private": false,
   "dependencies": {
